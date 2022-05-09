@@ -1,0 +1,7 @@
+750x750px screen
+
+each lane will be 90 pixels wide, leaving 105 pixels per side to use in the environment
+
+Kathryn and pedestrians will be 80 pixels wide
+
+lives will be 50x50px
